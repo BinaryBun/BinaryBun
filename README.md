@@ -1,4 +1,4 @@
-![off/on](https://github.com/BinaryBun/BinaryBun/blob/main/pic/On.png)
+![off/on](https://github.com/BinaryBun/BinaryBun/blob/main/pic/Off_mini.png)
 [![Stat_0](https://github-readme-stats.vercel.app/api?username=BinaryBun&show_icons=true&theme=radical&border_color=141321)](https://github.com/BinaryBun) | [![Stat_1](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBun&layout=compact&bg_color=141321&border_color=141321&card_width=445)](https://github.com/BinaryBun)
 | ------ | ------ |
 
